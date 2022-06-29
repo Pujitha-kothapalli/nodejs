@@ -1,0 +1,1 @@
+var obj = {name:"pujitha",college:"svecw",branch:"ai&ds"}
